@@ -41,7 +41,7 @@ class CowinDashboard extends Component {
           eachDayData => ({
             vaccineDate: eachDayData.vaccine_date,
             dose1: eachDayData.dose_1,
-            dose2: eachDayData.dose2,
+            dose2: eachDayData.dose_2,
           }),
         ),
 
