@@ -22,7 +22,7 @@ const VaccinationCoverage = props => {
         margin={{top: 5}}
       >
         <XAxis
-          dataKey="vaccineData"
+          dataKey="vaccineDate"
           tick={{
             stroke: '#6c757d',
             strokeWidth: 1,
